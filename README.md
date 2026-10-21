@@ -1,21 +1,29 @@
-# Hello, Tech Recruiter and Interviewer!
+# Hi there, I'm Erza!
 
-Welcome to my software engineering playground! I am a final-year Computer Science student passionate about building highly available distributed systems, secure cloud architecture, and modern full-stack web applications. 
-If you are looking for a dedicated engineer who writes clean, concurrent, and secure code, you are in the right place!
+Welcome to my repository showcase! I am a final-year Computer Science student passionate about Data Science & Analytics, Machine Learning, Backend Systems, and Cloud Infrastructure. Whether it's extracting actionable insights from complex datasets or engineering reliable software architectures, I focus on clean code, performance, and data-driven solutions.
+
 
 ### Technical Highlights At A Glance
-* Distributed Processing: Hands-on experience developing concurrent systems using Java TCP Sockets, Multithreading (ReentrantLock), and Java RMI frameworks.
-* Cloud and DevOps: Designing resilient, self-healing infrastructures on AWS (VPC isolation, ALB load balancing, Auto Scaling).
-* Full-Stack Engineering: Building data-driven ecosystems pairing React frontends with Node.js/Express and relational/non-relational engines (PostgreSQL, MongoDB).
 
-### Core Areas of Engineering Interest
-* Backend Scalability: Optimizing network boundaries, message routing pipelines, and concurrent computing models.
-* Defensive Programming: Applying secure coding principles and structural auditing to enforce data protection lines.
-* System Architecture: Researching distributed multi-tenant environments and high-availability cloud frameworks.
+- Data Science & Machine Learning: End-to-end data pipelines, exploratory data analysis (EDA), predictive modeling (Supervised/Unsupervised ML), PCA, and association rule mining using Python (Scikit-learn, Pandas, NumPy, Seaborn).
+- Backend & Distributed Systems: Hands-on experience developing concurrent systems using Java (TCP Sockets, Multithreading, Java RMI) and RESTful API architectures.
+- Full-Stack & Databases: Building web platforms with React and Node.js, working with relational and non-relational engines (PostgreSQL, MySQL, MongoDB).
+- Cloud Infrastructure: Designing secure network architectures and deployments on AWS (VPC isolation, EC2, ALB, ASG).
 
-### Let's Connect and Discuss Career Opportunities!
-If my repositories align with an open technical track or upcoming project requirements in your organization, I would love to connect:
-* Email: berzaberisha@gmail.com
-* LinkedIn: linkedin.com/in/erze-berisha
-* Explore More: Feel free to review my pinned repositories below to inspect my coding structures and documentation style!
-* https://erzaberisha.vercel.app/
+
+### Core Areas of Interest
+
+- Data Analytics & Research: Transforming raw healthcare, business, and operational datasets into clear statistical insights and actionable reports.
+- Predictive Analytics & ML: Developing predictive algorithms, feature engineering, and optimizing models for real-world decision-making.
+- System Architecture & Scalability: Building resilient backend applications and secure data-routing pipelines.
+
+
+### Let's Connect & Discuss Opportunities!
+
+If my repositories and skill sets align with an open technical or analytical role in your organization, I'd love to get in touch:
+
+- Email: berzaberisha@gmail.com
+- LinkedIn: https://linkedin.com/in/erze-berisha
+- Portfolio: https://erzaberisha.vercel.app/
+
+Feel free to explore my pinned repositories below to review my code structures, machine learning workflows, and project documentation!
